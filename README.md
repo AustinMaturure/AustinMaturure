@@ -1,7 +1,5 @@
-## Hi there 👋
+# Hey, I'm Austin!
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+### I build beautiful, Full-Stack Web Applications
+
+I Am currently working on [Shopiet](https://github.com/AustinMaturure/Shopiet) a Fullstack web app similar to Facebook Market Place
