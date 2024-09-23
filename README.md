@@ -1,4 +1,4 @@
-# Hey, I'm Austin!
+# Hey, I'm Austin! ⚡
 
 ### I Build Beautiful, Full-Stack Web Applications
 
