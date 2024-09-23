@@ -13,6 +13,7 @@ I am currently working on [Shopiet](https://github.com/AustinMaturure/Shopiet) a
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
  
  
 </div>
