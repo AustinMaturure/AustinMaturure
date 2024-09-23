@@ -22,3 +22,6 @@ Currently working on a Full-Stack Prototype for @[NubyTech](https://github.com/N
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="gcp logo"  />
 </div>
+
+### Contact
+- You can find my contact info on my [Portfolio](https://austinmaturure.netlify.app)
