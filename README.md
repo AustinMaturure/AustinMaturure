@@ -12,6 +12,8 @@ I am currently working on [Shopiet](https://github.com/AustinMaturure/Shopiet) a
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
  
