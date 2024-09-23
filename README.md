@@ -8,15 +8,15 @@ I am currently working on [Shopiet](https://github.com/AustinMaturure/Shopiet) a
 ### Tech Stack 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" style="filter: grayscale(100%);" />
-  <img src="https://skillicons.dev/icons?
-    </div>
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="gcp logo"  />
+</div>
