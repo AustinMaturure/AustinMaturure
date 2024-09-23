@@ -7,7 +7,7 @@ I am currently working on [Shopiet](https://github.com/AustinMaturure/Shopiet) a
 
 ### Tech Stack 
 
-<div align="left">
+<div align="left" style="filter: grayscale(100%);>
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
