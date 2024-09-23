@@ -24,4 +24,4 @@ Currently working on a Full-Stack Prototype for @[NubyTech](https://github.com/N
 </div>
 
 ### Contact
-- You can find my contact info on my [Portfolio](https://austinmaturure.netlify.app)
+You can find my contact info on my [Portfolio](https://austinmaturure.netlify.app)
