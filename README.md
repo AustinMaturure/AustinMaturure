@@ -1,6 +1,7 @@
 # Hey, I'm Austin! ⚡
 
 ### I Build Beautiful, Full-Stack Web Applications
+[![](https://visitcount.itsvg.in/api?id=AustinMaturure&icon=0&color=3)](https://visitcount.itsvg.in)<br>
 
 Currently working on a Full-Stack Prototype for @[NubyTech](https://github.com/Nubytech/)
 
